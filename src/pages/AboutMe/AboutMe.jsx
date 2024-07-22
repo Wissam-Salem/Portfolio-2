@@ -22,7 +22,7 @@ export default function AboutMe() {
         <div className="w-full h-fit flex justify-center items-center gap-5 ">
           <a
             className="w-10 h-10 tooltip text-white tooltipt flex justify-center items-center rounded-md bg-[#393E46]"
-            href="#"
+            href="https://mostaql.com/u/Wissam_Salem"
             target="_blank"
             data-tip="Mostaql"
           >
